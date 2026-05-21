@@ -5,19 +5,19 @@
   "file": "00-price.md",
   "pages": [
    1,
-   42
+   43
   ],
-  "blocks": 15
+  "blocks": 12
  },
  {
   "id": "option",
   "title": "발코니 확장 · 옵션",
   "file": "01-option.md",
   "pages": [
-   5,
-   40
+   1,
+   43
   ],
-  "blocks": 15
+  "blocks": 13
  },
  {
   "id": "schedule",
@@ -25,29 +25,29 @@
   "file": "02-schedule.md",
   "pages": [
    1,
-   45
+   36
   ],
-  "blocks": 28
+  "blocks": 21
  },
  {
   "id": "special",
   "title": "특별공급",
   "file": "03-special.md",
   "pages": [
-   1,
-   29
+   2,
+   30
   ],
-  "blocks": 30
+  "blocks": 33
  },
  {
   "id": "income_asset",
   "title": "소득 · 자산 기준",
   "file": "04-income_asset.md",
   "pages": [
-   13,
-   38
+   11,
+   41
   ],
-  "blocks": 16
+  "blocks": 20
  },
  {
   "id": "selection",
@@ -55,9 +55,9 @@
   "file": "05-selection.md",
   "pages": [
    1,
-   35
+   36
   ],
-  "blocks": 12
+  "blocks": 15
  },
  {
   "id": "documents",
@@ -65,19 +65,19 @@
   "file": "06-documents.md",
   "pages": [
    3,
-   36
+   40
   ],
-  "blocks": 12
+  "blocks": 22
  },
  {
   "id": "loan_tax",
   "title": "대출 · 세금 · 신고",
   "file": "07-loan_tax.md",
   "pages": [
-   3,
-   5
+   1,
+   35
   ],
-  "blocks": 2
+  "blocks": 8
  },
  {
   "id": "eligibility",
@@ -85,19 +85,19 @@
   "file": "08-eligibility.md",
   "pages": [
    1,
-   29
+   28
   ],
-  "blocks": 41
+  "blocks": 54
  },
  {
   "id": "movein",
   "title": "입주 안내",
   "file": "09-movein.md",
   "pages": [
-   10,
-   39
+   36,
+   44
   ],
-  "blocks": 10
+  "blocks": 4
  },
  {
   "id": "overview",
@@ -107,7 +107,7 @@
    1,
    45
   ],
-  "blocks": 9
+  "blocks": 20
  },
  {
   "id": "notice",
@@ -117,6 +117,6 @@
    1,
    45
   ],
-  "blocks": 30
+  "blocks": 25
  }
 ]
